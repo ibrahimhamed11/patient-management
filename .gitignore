@@ -1,0 +1,51 @@
+# Node.js dependencies
+/node_modules/
+
+# Build output
+/dist/
+/build/
+/coverage/
+
+# Logs
+*.log
+*.log.*
+
+# Dependency directories
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# NPM package lock files (Optional, if using Yarn)
+package-lock.json
+yarn.lock
+
+# Cache files
+/.cache/
+
+# Debugging files
+*.out
+*.pid
+*.seed
+
+# Frontend build output (e.g., React, Vue)
+build/
+
+# Test coverage files
+/coverage/
+
+# Ignore test or debug directories (e.g., if using Jest, Mocha, etc.)
+/test-output/
+/debug/
